@@ -7,7 +7,7 @@ banner() {
 clear
 
 toilet -f standard "WELCOME!!!" -F gay
-printf " \e[0;32mIni Adalah Script Phising FreeFire v1 Dengan Tampilan Advance Server BY KCHTZ\e[0m"
+printf " \e[0;32mIni Adalah Script Phising FreeFire v1 Dengan Tampilan Advance Server BY FR13NDS\e[0m"
 printf " \e[0;32mJangan Recode Ya Gan:)\e[0m"
 printf " \e[0;32mGUNAKAN DENGAN BIJAK^_^\e[0m"
 
